@@ -1,0 +1,10 @@
+aarch64 cross cross compilation tools for darwin host.
+
+gcc-7.5.0: https://mirror.freedif.org/GNU/gcc/gcc-7.5.0/
+glibc-2.31: https://mirror.downloadvn.com/gnu/glibc/glibc-2.31.tar.bz2
+binutils-2.31.1: https://toolchains.bootlin.com/downloads/releases/sources/binutils-2.31.1/
+linux headers: https://github.com/torvalds/linux/releases/tag/v5.6-rc3
+
+PS: This might contain some junk headers as I mistakenly used Codeaurora project's LA.UM.8.3.r1-07300-sdm845.0 first
+
+source: https://source.codeaurora.org/quic/la/kernel/msm-4.9/tag/?h=LA.UM.8.3.r1-07300-sdm845.0
